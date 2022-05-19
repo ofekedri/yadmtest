@@ -114,3 +114,7 @@ compinit
 plugins=(
   git
 )
+
+
+
+#test
