@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Starting bootstrap"
+
+
+echo "Finishing bootstrap"
+
